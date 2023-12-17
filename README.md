@@ -1,1 +1,1 @@
-# trabalho_aprendizado_de_maquina
+# Repositório do trabalho final para a disciplina Aprendizado de Máquina
